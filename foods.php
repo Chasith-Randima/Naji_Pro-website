@@ -38,7 +38,7 @@ include './connect.php';
   <div class="input">
   <label for="dinetime"><b>Dinetime</b></label>
   <select name="dinetime" id="dinetime">
-          <!-- <option value="notSelected">NotSelected</option> -->
+          <!-- <option value="notSelected">NotSelected </option> -->
           <option value="breakfast">Breakfast</option>
           <option value="lunch">Lunch</option>
           <option value="dinner">Dinner</option>
