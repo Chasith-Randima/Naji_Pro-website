@@ -1,5 +1,5 @@
 
-<!-- footer section starts -->
+<!-- footer section starts  -->
 
 <section class="footer">
   <div class="box-container">
