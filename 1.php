@@ -25,9 +25,7 @@ $id = $_GET["roomid"];
       $sqlGetARoom = "SELECT * FROM `rooms` WHERE `roomid` = '$id'";
 
       $result = $con->query(($sqlGetARoom));
-
       if($row = $result->fetch_assoc()){
-
 
 echo'
 <div id="carouselExampleIndicators" class="carousel slide slide-container" data-ride="carousel">
