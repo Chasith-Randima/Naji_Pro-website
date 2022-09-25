@@ -68,7 +68,7 @@ include './connect.php';
         <span><i class="fas fa-cocktail"></i></span>
         <h2>Drinks</h2>
         <p>
-          Enjoy the best drinks in Sri Lanka
+          Enjoy the best drinks  in Sri Lanka
         </p>
       </div>
       <div class="service">
