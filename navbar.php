@@ -10,7 +10,7 @@ session_start();
 // if($userid){
 //     echo $userid;
 // }else{
-//     echo"There is no user id";
+//     echo"There is no user  id";
 // }
 ?>
 
