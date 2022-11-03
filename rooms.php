@@ -37,7 +37,7 @@ include './connect.php';
 </div>
 <!-- <div class="input">
 
-  <label for="pets"><b>Pets</b></label>
+  <label for="pets"><b>Pets </b></label>
   <input type="text" placeholder="Pets Allowed" name="pets" >
   </div> -->
 
